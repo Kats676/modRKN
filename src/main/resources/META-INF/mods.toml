@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="rknmod"
+version="1.0.0"
+displayName="Роскомнадзор Выживание"
+authors="YourName"
+description='''
+Уникальный симулятор выживания в условиях жестких цифровых ограничений! Телефон, забаненные блоки, ВПН, повестки, суды и пиглины-коллекторы.
+'''
+
+[[dependencies.rknmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
